@@ -28,3 +28,7 @@ https://docs.bluecatnetworks.com/r/Address-Manager-Administration-Guide/OAuth-AP
 I also worked on the following API documentation:
 
 https://docs.bluecatnetworks.com/r/BlueCat-Edge-User-Guide/Logging-endpoints-APIs/Service-Point-v4.x.x
+
+## CAPREIT
+
+At CAPREIT, I worked for an internal audience by documenting workflows and internal software. A quickstart guide on managing employee compensation in CAPREIT's HR system espace can be found as a pdf file in this page.
