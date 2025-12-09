@@ -31,4 +31,4 @@ https://docs.bluecatnetworks.com/r/BlueCat-Edge-User-Guide/Logging-endpoints-API
 
 ## CAPREIT
 
-At CAPREIT, I worked for an internal audience by documenting workflows and internal software. A quickstart guide on managing employee compensation in CAPREIT's HR system espace can be found as a pdf file in this page.
+At CAPREIT, I worked for an internal audience by documenting workflows and internal software. A quickstart guide on managing employee compensation in CAPREIT's HR system espace can be found as a pdf file (Compensation QRG site.pdf) in this page.
